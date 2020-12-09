@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there,I'm Lovepreet Singh aka z3nitsu 👋
 
+I'm Programmer | Learner
+Currently Learning Java, Python and Web Development 
+Willing to contribute more and more in Open Source Projects
+
+#### Feel Free to Contact me.....
 <p align="center">
 	<a href="https://github.com/z3nitsu"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.instagram.com/lovepreet.jpeg/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
